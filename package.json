@@ -31,7 +31,7 @@
     "react-is": "^17.0.0",
     "react-query": "^3.12.1",
     "throttle-debounce": "^3.0.0",
-    "webpack": "5.51.1",
+    "webpack": "5.54.0",
     "yup": "^0.32.0"
   },
   "scripts": {

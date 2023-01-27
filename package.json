@@ -42,7 +42,7 @@
     "react-is": "^17.0.0",
     "react-query": "^3.12.1",
     "stripe": "^10.16.0",
-    "throttle-debounce": "^3.0.0",
+    "throttle-debounce": "^5.0.0",
     "ua-parser-js": "^1.0.2",
     "web-push": "^3.5.0",
     "webpack": "5.51.1",

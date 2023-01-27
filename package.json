@@ -25,7 +25,7 @@
     "framer-motion": "^4.1.2",
     "google-map-react": "^2.1.10",
     "js-cookie": "^3.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.21",
     "luxon": "^2.3.1",
     "next": "^12.3.1",

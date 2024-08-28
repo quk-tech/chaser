@@ -10,7 +10,7 @@
     "@prisma/client": "^4.5.0",
     "@prismicio/client": "^6.7.1",
     "@prismicio/helpers": "^2.3.5",
-    "@prismicio/next": "^0.1.5",
+    "@prismicio/next": "^1.0.0",
     "@prismicio/react": "^2.5.0",
     "@prismicio/slice-simulator-react": "^0.2.2",
     "@sendgrid/mail": "^7.7.0",

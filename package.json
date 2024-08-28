@@ -46,7 +46,7 @@
     "ua-parser-js": "^1.0.2",
     "web-push": "^3.5.0",
     "webpack": "5.51.1",
-    "yup": "^0.32.0"
+    "yup": "^1.0.0"
   },
   "scripts": {
     "dev": "next dev",

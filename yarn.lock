@@ -7701,10 +7701,10 @@ react-fast-compare@3.2.0:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
   integrity sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA==
 
-react-flickity-component@^3.5.0:
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/react-flickity-component/-/react-flickity-component-3.6.2.tgz#81aefca49f058dea76d97d3876333eff1039cdcc"
-  integrity sha512-mrBVHvoYi6aEKdmqT2UIHi2qRtjloAugLMODBRIScwqV9l4CZpIOixZRvIeSnv9Y9Pe9uJsMVAzp/9fpdcxX0g==
+react-flickity-component@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/react-flickity-component/-/react-flickity-component-4.0.0.tgz#6cbff2cb603833cfab4a9688613e39b2a8bbc05a"
+  integrity sha512-Wbqg/fl1NJDahjr5khQ5VkGFi0HyvuC/xwkuLYgrcWlcp13RZc05y4nqKGzBQGK7GdZqrd7nUDxG+ZTn1hg1nA==
   dependencies:
     imagesloaded "^4.1.4"
     prop-types "^15.7.2"

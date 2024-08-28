@@ -6895,10 +6895,10 @@ next@^12.3.1:
     "@next/swc-win32-ia32-msvc" "12.3.1"
     "@next/swc-win32-x64-msvc" "12.3.1"
 
-nextjs-redirect@^5.0.0:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/nextjs-redirect/-/nextjs-redirect-5.2.1.tgz#56740c14cc8b942e6436778082ec8365f961be24"
-  integrity sha512-wfJGS289/nygvwS75lkLGJTi20j1VEak4OlDODa8zpK4c3eKMcGxs/xXhLUcpI5lzO/Whbcu8EBm5P7pDxnS3g==
+nextjs-redirect@^6.0.0:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/nextjs-redirect/-/nextjs-redirect-6.0.1.tgz#29416d11f130511e12dbe93ca0c4fa0778bfbae6"
+  integrity sha512-SScRdqhGwbD9HbATM+6KMoRyW5QdsPtBBknPPUBxeItnv3wOrhII4pW+0TrvglWNxeRUwI2GsnrDHCV/6juBtQ==
 
 node-fetch@2.6.7, node-fetch@^2.6.1, node-fetch@^2.6.7:
   version "2.6.7"

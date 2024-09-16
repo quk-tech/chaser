@@ -46,17 +46,21 @@
           "label": "Table",
           "fields": {
             "position": {
-              "type": "Text",
+              "type": "StructuredText",
               "config": {
                 "label": "position",
-                "placeholder": ""
+                "placeholder": "1st",
+                "allowTargetBlank": true,
+                "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
               }
             },
             "team": {
-              "type": "Text",
+              "type": "StructuredText",
               "config": {
                 "label": "Team",
-                "placeholder": ""
+                "placeholder": "LQC",
+                "allowTargetBlank": true,
+                "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
               }
             }
           }

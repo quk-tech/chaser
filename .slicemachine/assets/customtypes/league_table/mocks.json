@@ -19,13 +19,25 @@
       },
       "alt": null,
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a"
+      "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869"
     },
     "variant": "northernMagenta",
     "table": [
       {
-        "position": "1st",
-        "team": "London Quidditch Club"
+        "position": [
+          {
+            "type": "paragraph",
+            "text": "Veniam fugiat ex veniam Lorem irure dolor in magna.",
+            "spans": []
+          }
+        ],
+        "team": [
+          {
+            "type": "paragraph",
+            "text": "Anim ut occaecat aliquip irure proident dolore proident mollit pariatur voluptate culpa esse eiusmod deserunt. Ex enim do dolor non nulla adipisicing velit laboris. Aliquip voluptate labore sint Lorem nisi anim pariatur do labore sit.",
+            "spans": []
+          }
+        ]
       }
     ]
   }

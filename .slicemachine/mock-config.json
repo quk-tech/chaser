@@ -40,10 +40,16 @@
     "league_table": {
       "table": {
         "position": {
-          "content": "1st"
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
         },
         "team": {
-          "content": "London Quidditch Club"
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
         }
       },
       "title": {

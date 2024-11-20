@@ -43,7 +43,7 @@
     "react-query": "^3.12.1",
     "stripe": "^10.16.0",
     "throttle-debounce": "^3.0.0",
-    "ua-parser-js": "^1.0.2",
+    "ua-parser-js": "^1.0.33",
     "web-push": "^3.5.0",
     "webpack": "5.51.1",
     "yup": "^0.32.0"
